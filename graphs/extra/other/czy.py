@@ -1,0 +1,1 @@
+#czy drzew0 - 0 cykli i polaczony
